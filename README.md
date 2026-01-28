@@ -2,8 +2,7 @@
 
 **`Desenvolvedora `**
 
-Sou Cristhiane Ferreira Santos, estudante de Ciência da Computação e atualmente atuo como estagiária na área de Dados. Além disso, desenvolvo soluções e softwares internos na empresa Grupo DPSP, contribuindo para automações, melhoria de processos e análises que apoiam decisões estratégicas.
-Sou apaixonada por tecnologia e busco sempre evoluir minhas habilidades, aprendendo continuamente para entregar resultados cada vez melhores..
+
 
 
 </p>
